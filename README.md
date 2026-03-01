@@ -62,9 +62,16 @@ I enjoy solving complex problems and turning ideas into production-ready softwar
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=shreeman10&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shreeman10&theme=rose_pine&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreeman10&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=shreeman10&show_icons=true&theme=rose_pine&hide_border=true&cache_seconds=86400" height="170"/>
+
+  <img src="https://streak-stats.demolab.com?user=shreeman10&theme=rose_pine&hide_border=true" height="170"/>
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreeman10&layout=compact&theme=rose_pine&hide_border=true&cache_seconds=86400"/>
+
 </div>
 
 ---
