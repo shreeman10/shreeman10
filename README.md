@@ -6,7 +6,7 @@
     <a href="https://www.linkedin.com/in/shreemankumar/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="krshreeman.10@gmail.com">
+    <a href="mailto:krshreeman.10@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://github.com/shreeman10">
@@ -58,12 +58,14 @@ I enjoy solving complex problems and turning ideas into production-ready softwar
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
-![](https://github-readme-stats.vercel.app/api?username=shreeman10&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shreeman10&theme=rose_pine&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreeman10&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=shreeman10&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shreeman10&theme=rose_pine&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreeman10&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </div>
 
 ---
